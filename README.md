@@ -1,2 +1,2 @@
 # ArithmeticExpressions
-Implemting function for various arithmetic expressions in Haskell 
+Implemting functions for various arithmetic expressions in Haskell 
